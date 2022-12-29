@@ -1,0 +1,490 @@
+.screen-desktop-container {
+  min-height: 100vh;
+}
+.screen-desktop-screen-desktop {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 80px 0;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.screen-desktop-section-headline {
+  width: 1046px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 60px;
+  flex-direction: column;
+}
+.screen-desktop-heading {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.screen-desktop-text {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 120.00000476837158%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.screen-desktop-subhead {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-text02 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.screen-desktop-collection-card-row {
+  width: 1050px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-collection-card {
+  width: 330px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.screen-desktop-photos-numberofadditional-n-f-ts {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.screen-desktop-primary-photo-placeholder {
+  width: auto;
+  height: 330px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px;
+  margin-bottom: 15px;
+}
+.screen-desktop-frame228 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-secondary-photo-placeholder {
+  width: auto;
+  height: 100px;
+  position: relative;
+  flex-grow: 1;
+  border-color: transparent;
+  margin-right: 15px;
+  border-radius: 20px;
+}
+.screen-desktop-secondary-photo-placeholder1 {
+  width: auto;
+  height: 100px;
+  position: relative;
+  flex-grow: 1;
+  border-color: transparent;
+  margin-right: 15px;
+  border-radius: 20px;
+}
+.screen-desktop-numberofadditional-n-f-ts {
+  width: 100px;
+  display: flex;
+  padding: 32px 15px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-calltoaction);
+}
+.screen-desktop-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 160.0000023841858%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.screen-desktop-collection-info {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.screen-desktop-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.screen-desktop-artist-card {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.screen-desktop-avatar {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.screen-desktop-asset122 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-avatar-placeholder {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 100px;
+}
+.screen-desktop-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.screen-desktop-collection-card1 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 30px;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.screen-desktop-photos-numberofadditional-n-f-ts1 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.screen-desktop-primary-photo-placeholder1 {
+  width: auto;
+  height: 330px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px;
+  margin-bottom: 15px;
+}
+.screen-desktop-frame2281 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-secondary-photo-placeholder2 {
+  width: auto;
+  height: 100px;
+  position: relative;
+  flex-grow: 1;
+  border-color: transparent;
+  margin-right: 15px;
+  border-radius: 20px;
+}
+.screen-desktop-secondary-photo-placeholder3 {
+  width: auto;
+  height: 100px;
+  position: relative;
+  flex-grow: 1;
+  border-color: transparent;
+  margin-right: 15px;
+  border-radius: 20px;
+}
+.screen-desktop-numberofadditional-n-f-ts1 {
+  width: 100px;
+  display: flex;
+  padding: 32px 15px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-calltoaction);
+}
+.screen-desktop-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 160.0000023841858%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.screen-desktop-collection-info1 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.screen-desktop-text12 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.screen-desktop-artist-card1 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.screen-desktop-avatar1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.screen-desktop-asset1221 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-avatar-placeholder1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.screen-desktop-text14 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.screen-desktop-collection-card2 {
+  width: 330px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-background);
+}
+.screen-desktop-photos-numberofadditional-n-f-ts2 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.screen-desktop-primary-photo-placeholder2 {
+  width: auto;
+  height: 330px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 20px;
+  margin-bottom: 15px;
+}
+.screen-desktop-frame2282 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-secondary-photo-placeholder4 {
+  width: auto;
+  height: 100px;
+  position: relative;
+  flex-grow: 1;
+  border-color: transparent;
+  margin-right: 15px;
+  border-radius: 20px;
+}
+.screen-desktop-secondary-photo-placeholder5 {
+  width: auto;
+  height: 100px;
+  position: relative;
+  flex-grow: 1;
+  border-color: transparent;
+  margin-right: 15px;
+  border-radius: 20px;
+}
+.screen-desktop-numberofadditional-n-f-ts2 {
+  width: 100px;
+  display: flex;
+  padding: 32px 15px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-calltoaction);
+}
+.screen-desktop-text16 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 160.0000023841858%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.screen-desktop-collection-info2 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.screen-desktop-text18 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.screen-desktop-artist-card2 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.screen-desktop-avatar2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 12px;
+}
+.screen-desktop-asset1222 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen-desktop-avatar-placeholder2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 120px;
+}
+.screen-desktop-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
